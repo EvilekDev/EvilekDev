@@ -1,7 +1,7 @@
 ### Oiii eu sou o Evilek Victor, fissurado por programação e tecnologia! 👋
 - 🌱 estudando HTML, CSS e JS ...
 - 👯 Espero entra no mercado de trabalho como Dev front-end e/ou Back-end ainda indeciso kkk ...
-- 🔥 Tenho interesses em HTML, Css, Js, NodeJS, reactJS, TypeScrips, MongDB e phyton
+- 🔥 Tenho interesses em HTML, Css, Js, NodeJS, ReactJS, TypeScrips, MongoDB e Phyton
 <div align="center">
   <a href="https://github.com/EvilekDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvilekDev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
